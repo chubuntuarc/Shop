@@ -20,6 +20,7 @@
     <?php include("slider.php"); ?>
     <?php include("top-categories.php"); ?>
     <?php include("top-products.php"); ?>
+    <?php include("index-extra.php"); ?>
     <?php include("footer.php"); ?>
 
     <?php include("side-nav.php"); ?>

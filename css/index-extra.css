@@ -1,0 +1,25 @@
+.card-panel{
+    height: 150px;
+    border-radius: 10px;
+}
+
+.card-panel button{
+    background-color: #8d6e63;
+    border-radius: 10px;
+    margin-top: -20px;
+}
+
+.card-panel button:hover{
+    background-color: #FFF;
+    color: #8d6e63;
+}
+
+.card-panel form{
+    margin-top: -50px;
+}
+
+.card-panel p{
+    color: #8d6e63;
+    margin-left: -4%;
+    margin-top: -10px;
+}
