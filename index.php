@@ -20,10 +20,10 @@
     <?php include("slider.php"); ?>
     <?php include("top-categories.php"); ?>
     <?php include("top-products.php"); ?>
+    <?php include("footer.php"); ?>
 
     <?php include("side-nav.php"); ?>
     <a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a>
-    <h1>Hola mundo</h1>
 
     <script type="text/javascript">
     $(".button-collapse").sideNav();
