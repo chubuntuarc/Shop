@@ -11,9 +11,12 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
     <!-- Icons -->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!-- Style -->
+    <link rel="stylesheet" href="css/index.css">
 </head>
 <body>
     <?php include("super-nav.php"); ?>
+    <?php include("search-nav.php"); ?>
     <?php include("side-nav.php"); ?>
     <a href="#" data-activates="slide-out" class="button-collapse"><i class="material-icons">menu</i></a>
     <h1>Hola mundo</h1>

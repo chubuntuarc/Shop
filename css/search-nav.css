@@ -1,0 +1,14 @@
+.search-nav {
+    background-color: #FFF;
+    height: 80px;
+    line-height: 80px;
+}
+
+.search-nav li i{
+    margin-right: 5px;
+    margin-top: 6px;
+}
+
+.search-nav a{
+    color: #000;
+}
