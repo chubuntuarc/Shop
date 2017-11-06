@@ -1,0 +1,6 @@
+.dropdown-content li>a, .dropdown-content li>span{
+    color: #8d6e63;
+}
+.pagination li.active{
+    background-color: #8d6e63;
+}

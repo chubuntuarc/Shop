@@ -8,10 +8,10 @@
         <a href="#!email"><span class="white-text email">jdandturk@gmail.com</span></a> -->
     </div></li>
     <li><div class="divider"></div></li>
-    <li><a href="#!">Categoría uno</a></li>
-    <li><a href="#!">Categoría dos</a></li>
-    <li><a href="#!">Categoría tres</a></li>
-    <li><a href="#!">Categoría cuatro</a></li>
+    <li><a href="section.php">Categoría uno</a></li>
+    <li><a href="section.php">Categoría dos</a></li>
+    <li><a href="section.php">Categoría tres</a></li>
+    <li><a href="section.php">Categoría cuatro</a></li>
     <li><div class="divider"></div></li>
     <li><a class="subheader">Cuenta</a></li>
     <li><a class="waves-effect" href="#!">Mi cuentas</a></li>
